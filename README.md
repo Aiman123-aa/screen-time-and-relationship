@@ -20,8 +20,8 @@ This research can be used by parents, educators, and policymakers to create awar
 
 spotify songs
 
-License
-GPU
+# License
+[GPU](https://choosealicense.com/licenses/agpl-3.0/#)
 
 How to use
 contribution
