@@ -16,5 +16,6 @@ This research can be used by parents and researchers to create awareness and dev
 # License
 [GPU](https://choosealicense.com/licenses/agpl-3.0/#)
 
-# How to use
-# contribution
+# Authorship
+# Contribution
+# Cition 
