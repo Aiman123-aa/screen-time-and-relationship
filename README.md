@@ -9,19 +9,12 @@ Furthermore, if the use of media is more in parents then children also use more 
 
 This project explores the relationship between parental screen use and children's screen use, examining how the use of both parent's and children affect their relationship quality. In today's digital era, screen use become an important part of daily life for both parents and children. However, excessive screen use can impact family interactions, emotional bonding, and communication of parents and children.
 
-The purpose of this project is to investigate how parental screen use affects children's screen time.
-Investigate whether higher screen use among parents and children affects the quality of their interactions.
+The purpose of this project is to investigate how parental screen use affects children's screen time and whether higher screen use among parents and children affects the quality of their relationship.
 
-Provide insights into healthy digital habits that promote stronger parent-child relationships.
-
-This research can be used by parents, educators, and policymakers to create awareness and develop strategies for balanced screen use that fosters meaningful family connections.
-
-
-
-spotify songs
+This research can be used by parents and researchers to create awareness and develop approch for balanced screen use that promote meaningful family connections.
 
 # License
 [GPU](https://choosealicense.com/licenses/agpl-3.0/#)
 
-How to use
-contribution
+# How to use
+# contribution
