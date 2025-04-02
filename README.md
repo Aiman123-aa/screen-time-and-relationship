@@ -1,9 +1,7 @@
-# Does the excessive screen exposure affect parent-child relationship
-Screen exposure is the time spent in watching or using all kinds of screen media. Media use has many positive and negative consequences for children.
+# Does the excessive screen exposure affect parent-child relationship?
+This project investigates the impact of too much screen time on parent-child interactions. It explores how digital media usage affects communication, bonding, and overall family dynamics, providing recommendations for development of healthier relationships.
 
-Parent-child interaction is important for children development.But this interaction can be disturbed because of screen use of both parents and children.
 
-Furthermore, if the use of media is more in parents then children also use more media because parents acts as role-model for their children. This also affect their relationship quality with each other.
 
 # Purpose and Use of the project
 
