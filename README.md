@@ -1,4 +1,4 @@
-# Screen exposure of children and parent-child interaction
+# Does the excessive screen exposure affect parent-child relationship
 Screen exposure is the time spent in watching or using all kinds of screen media. Media use has many positive and negative consequences for children.
 
 Parent-child interaction is important for children development.But this interaction can be disturbed because of screen use of both parents and children.
