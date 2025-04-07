@@ -83,5 +83,7 @@ Navigate to the notebook folder,
 https://youtu.be/E6NO0rgFub4?si=zxYZUcZOcOAZqBPP
 
 https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/
+
+Research papers on family interaction and screen  
 ## License
 This research project is open-source. This project is licensed under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html).
