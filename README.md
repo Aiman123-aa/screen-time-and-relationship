@@ -78,15 +78,11 @@ Run the notebook screen-time-and-relationship/notebook/.ipynb_checkpoints/
 Navigate to the notebook folder,
 
 ## Author
-
 - [@Aiman](https://github.com/Aiman123-aa)
 
 
 ## References
-https://youtu.be/E6NO0rgFub4?si=zxYZUcZOcOAZqBPP
-
-https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/
-
-Research papers on family interaction and screen  
+Any queries should be addressed to Aiman (aimanwaqas2018@gmail.com).
+ 
 ## License
 This research project is open-source. This project is licensed under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html).
