@@ -16,12 +16,6 @@ This project investigates the impact of too much screen time on parent-child int
 ## Purpose of the project
 The purpose of this project is to investigate how parental screen use affects children's screen time and whether higher screen use among parents and children affects the quality of their relationship.
 
-To run or present this project, follow these steps:
-
-```bash
-npm install screen-time-and-relationship
-npm start
-```
 I'd encourage you to clone the project to use for your own purpose.
 ## Installation
 The code was prepared in Python and most libraries should be included in a standard installation (e.g. via Anaconda)
