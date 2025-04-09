@@ -1,15 +1,18 @@
+
+![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
+![Jupyter Notebook](https://img.shields.io/badge/Made%20With-Jupyter-orange)
 ## Does the excessive screen exposure affect parent-child relationship?
 # Description
 This project investigates the impact of too much screen time on parent-child interactions. It explores how digital media usage affects communication, bonding, and overall family dynamics, providing recommendations for development of healthier relationships.
 
 ## Table of content
-- [Purpose and use of the project]()
-- [Installation]()
-- [Usage]()
-- [Contributing]()
-- [Author]()
-- [Reference]()
-- [License]()
+- [Purpose and use of the project](#purpose-and-use-of-the-project)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [Author](#author)
+- [References](#reference)
+- [License](#license)
 ## Purpose and use of the project
 The purpose of this project is to investigate how parental screen use affects children's screen time and whether higher screen use among parents and children affects the quality of their relationship.
 
@@ -46,8 +49,8 @@ cd screen-time-and-relationship
 jupyter notebook
 ```
 3. Open and run:
-```pgsql
-screen time and relation-checkpoint.ipynb
+```bash
+screen-time-and-relationship/notebook/screen_time_and_relation-checkpoint.ipynb
 ```
 
 
@@ -74,14 +77,16 @@ Open an Anaconda command prompt and run.
 Run the notebook screen-time-and-relationship/notebook/.ipynb_checkpoints/
 Navigate to the notebook folder,
 
-## Authors
+## Author
 
 - [@Aiman](https://github.com/Aiman123-aa)
 
 
-## Reference
+## References
 https://youtu.be/E6NO0rgFub4?si=zxYZUcZOcOAZqBPP
 
 https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/
+
+Research papers on family interaction and screen  
 ## License
 This research project is open-source. This project is licensed under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html).
