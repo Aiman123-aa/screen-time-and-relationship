@@ -7,7 +7,7 @@ Fork the repository https://github.com/Aiman123-aa/screen-time-and-relationship
 
 Clone the repository to your local machine using git clone https://github.com/Aiman123-aa/screen-time-and-relationship
 
-Create a new branch git checkout -b main.
+Create a new branch git checkout -b screen time.
 
 Commit your changes
 
@@ -15,5 +15,8 @@ Push to the branch git push origin
 
 Open a Pull Request
 
-Clone the screen-time-and-relationship repository Open an Anaconda command prompt and run. Navigate to the notebook folder. Run the notebook screen-time-and-relationship/notebook/.ipynb_checkpoints/
+Clone the screen-time-and-relationship repository.
+
+Open an Anaconda command prompt and run. Navigate to the notebook folder. 
+Run the notebook screen-time-and-relationship/notebook/.ipynb_checkpoints/
 
