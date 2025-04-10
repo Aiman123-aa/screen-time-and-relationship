@@ -66,7 +66,8 @@ git push origin <screentime>
 6. Open a Pull Request
 
 
-Clone the screen-time-and-relationship repository
+Clone the screen-time-and-relationship repository.
+
 Open an Anaconda command prompt and run.
 Navigate to the notebook folder.
 Run the notebook screen-time-and-relationship/notebook/.ipynb_checkpoints/
