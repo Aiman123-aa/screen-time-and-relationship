@@ -57,7 +57,7 @@ To contribute:
 1. Fork the repository https://github.com/Aiman123-aa/screen-time-and-relationship
 2. Clone the repository to your local machine using git clone https://github.com/Aiman123-aa/screen-time-and-relationship
 3. Create a new branch 
- git checkout -b main.
+ git checkout -b screen time.
 
 4. Commit your changes 
 5. Push to the branch 
