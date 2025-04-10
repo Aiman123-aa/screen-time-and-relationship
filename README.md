@@ -61,7 +61,7 @@ To contribute:
 
 4. Commit your changes 
 5. Push to the branch 
-git push origin <main> 
+git push origin <screen time> 
 
 6. Open a Pull Request
 
